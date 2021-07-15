@@ -9,10 +9,10 @@
                     <div class="lg:self-center">
                         <h2 class="text-3xl font-extrabold text-white sm:text-4xl">
                             <span class="block text-white">Open-Source</span>
-                            <span class="block text-indigo-900">SMS Aggregator</span>
+                            <span class="block text-indigo-900">WCTP Gateway</span>
                         </h2>
                         <p class="mt-4 text-lg leading-6 text-white">
-                            An SMS platform ardently crafted for the Amtelco community. Become your own SMS aggregator using Twilio, ThinQ, and more.
+                            A WCTP platform ardently crafted for the Amtelco community. Become your own SMS aggregator using Twilio, ThinQ, and more.
                         </p>
                         <a href="#pricingtable"
                            class="mt-8 bg-white border border-transparent shadow px-6 py-3 inline-flex items-center text-base font-medium text-indigo-600 hover:bg-indigo-50">
@@ -474,13 +474,13 @@
             <div class="hidden lg:block"> <!--hidden lg:block-->
                 <table class="w-full h-px table-fixed">
                     <caption class="sr-only">
-                        SMS Aggregator Price Plan Comparison
+                        WCTP Gateway Price Plan Comparison
                     </caption>
                     <thead>
                     <tr>
                         <th class="pb-4 px-6 text-sm font-medium text-gray-900 text-left" scope="col">
                             <span class="sr-only">Feature by</span>
-                            <span>SMS Aggregator</span>
+                            <span>WCTP Gateway</span>
                         </th>
 
                         <th class="w-1/4 pb-4 px-6 text-lg leading-6 font-medium text-gray-900 text-left" scope="col">Open-Source</th>
@@ -500,7 +500,7 @@
                                     <span class="text-4xl font-extrabold text-gray-900">$0</span>
                                     <span class="text-base font-medium text-gray-500">/forever</span>
                                 </p>
-                                <p class="mt-4 mb-16 text-sm text-gray-500">Free, open-source SMS aggregator software using the MIT license.</p>
+                                <p class="mt-4 mb-16 text-sm text-gray-500">Free, open-source WCTP gateway software using the MIT license.</p>
                                 <a href="https://github.com/notifius/wctp-gateway"
                                    class="absolute bottom-0 flex-grow block w-full bg-white border-2 border-indigo-800 py-2 text-sm font-semibold text-indigo-800 text-center hover:bg-indigo-100 hover:text-indigo-800">
                                     Download Free
